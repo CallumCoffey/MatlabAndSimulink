@@ -1,0 +1,3 @@
+*.sql linguist-detectable=true
+*.mlx linguist-detectable=true
+*.slx linguist-detectable=true
